@@ -1,6 +1,0 @@
-<Project Sdk="Godot.NET.Sdk/3.2.3">
-  <PropertyGroup>
-    <TargetFramework>net480</TargetFramework>
-    <RootNamespace>dGame</RootNamespace>
-  </PropertyGroup>
-</Project>
